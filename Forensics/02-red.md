@@ -38,7 +38,7 @@ RED, RED, RED, RED
 
 2. A poem found as a hint:
 
-    ![Metadata](~/Pictures/Screenshots/poem.png)
+    ![Metadata](../Images/02-red-poem.png)
 
 3. All hints suggested investigating RGBA channels.
 
@@ -50,7 +50,7 @@ RED, RED, RED, RED
 
 The output:
 
-    ![Output](~/Pictures/Screenshots/zsteg.png)
+    ![Output](../Images/02-red-zsteg-output.png)
 
 5. The longest founding is a base64-encoded string.
 
