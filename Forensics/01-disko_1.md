@@ -9,9 +9,9 @@ Difficulty: Easy
 Given file: disko-1.dd.gz
 
 
-## Goal
+## Description
 
-Find the flag in the given disk image.
+Can you find the flag in the given disk image?
 
 
 ## Hints
@@ -29,23 +29,35 @@ Maybe Strings could help? If only there was a way to do that?
 ## Steps Taken
 
 1. Decompress the file:
+
+    ```bash
     gzip -d  disko-1.dd.gz
+    ```
 
 2. Look for flag in the decompressed file:
+
+    ```bash
     strings disko-1.dd | grep -i 'picoctf'
+    ```
 
 
 ## What I learned 
 
-- .gz files are compressed files using gzip.
+1. .gz files are compressed files using gzip.
 
-- There are 2 ways to decompress and replace the file.gz with file:
-    1. gunzip file.gz
-    2. gzip -d file.gz
+2. There are 2 ways to decompress and replace the file.gz with file:
 
-- To decompress and keep the original file:
+    ```bash
+    gunzip file.gz
+    gzip -d file.gz
+    ```
+
+3. To decompress and keep the original file:
+    
+    ```bash
     gzip -dk file.gz
+    ```
 
-- .dd files are disk images, a partial or complete copy of a storage device.
+4. .dd files are disk images, a partial or complete copy of a storage device.
 
-- strings shows any readable text inside a file. 
+5. strings shows any readable text inside a file. 
