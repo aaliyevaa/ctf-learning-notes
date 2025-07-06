@@ -1,8 +1,11 @@
 # Challenge: DISKO 1
 
-Source: picoCTF 
-Category: Forensics
+Source: picoCTF  
+
+Category: Forensics 
+ 
 Difficulty: Easy
+  
 Given file: disko-1.dd.gz
 
 
@@ -11,10 +14,16 @@ Given file: disko-1.dd.gz
 Find the flag in the given disk image.
 
 
+## Hints
+
+Maybe Strings could help? If only there was a way to do that?
+
+
 ##  Tools
 
-gzip
-strings
+-gzip  
+
+-strings
 
 
 ## Steps Taken
@@ -29,10 +38,14 @@ strings
 ## What I learned 
 
 - .gz files are compressed files using gzip.
+
 - There are 2 ways to decompress and replace the file.gz with file:
     1. gunzip file.gz
     2. gzip -d file.gz
+
 - To decompress and keep the original file:
     gzip -dk file.gz
+
 - .dd files are disk images, a partial or complete copy of a storage device.
+
 - strings shows any readable text inside a file. 
