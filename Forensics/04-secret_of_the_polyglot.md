@@ -1,4 +1,4 @@
- Challenge: Secret of the Polyglot
+# Challenge: Secret of the Polyglot
 
 ## Details
 
@@ -52,7 +52,7 @@ This problem can be solved by just opening the file in different ways
     dd if=flag2of2-final.png bs=1 skip=1149 of=compressed.zlib
     ```
 
-     <pre> ```
+     <pre> ```python3
         import zlib
         
         with open("compressed.zlib", "rb") as f:
