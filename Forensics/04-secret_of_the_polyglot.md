@@ -28,7 +28,7 @@ This problem can be solved by just opening the file in different ways
 
 1. Firstly, I opened the pdf file, which seemed to contain some parts of the flag.
 
-    ![First half](../Images/04-first-half.png)
+    ![First half](../Images/04-first-half.jpg)
 
 3. As hint suggested opening the file in different ways, I checked the file signature using file.
 
