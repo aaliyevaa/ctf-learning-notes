@@ -44,4 +44,4 @@ What is a hex editor?
 
 # Helpful References
 
-1. [Hex Editor][https://ctf101.org/forensics/what-is-a-hex-editor/] 
+1. [Hex Editor](https://ctf101.org/forensics/what-is-a-hex-editor/)
