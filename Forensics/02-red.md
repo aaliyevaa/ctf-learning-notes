@@ -1,6 +1,8 @@
 # Challenge: RED 
 
-Source: picoCTF
+# Details
+
+Source: picoCTF 2025
 
 Category: Forensics
 
@@ -86,4 +88,4 @@ The output:
 
 ## Helpful references
 
-- [Base64 Encoding and Decoding of String](https://www.baeldung.com/linux/cli-base64-encode-decode)    
+1. [Base64 Encoding and Decoding of String](https://www.baeldung.com/linux/cli-base64-encode-decode)    

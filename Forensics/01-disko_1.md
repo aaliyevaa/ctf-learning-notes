@@ -1,6 +1,8 @@
 # Challenge: DISKO 1
 
-Source: picoCTF  
+# Details
+
+Source: picoCTF picoGym Exclusive
 
 Category: Forensics 
  
@@ -21,9 +23,9 @@ Maybe Strings could help? If only there was a way to do that?
 
 ##  Tools
 
--gzip  
+- gzip  
 
--strings
+- strings
 
 
 ## Steps Taken

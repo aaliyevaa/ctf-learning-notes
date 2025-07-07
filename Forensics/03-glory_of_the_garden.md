@@ -42,6 +42,6 @@ What is a hex editor?
 4. All file types start with a specific series of numbers showing their extension. If a file extension is faked, the header will expose it.
 
 
-# Useful links
+# Helpful References
 
 1. [Hex Editor][https://ctf101.org/forensics/what-is-a-hex-editor/] 
