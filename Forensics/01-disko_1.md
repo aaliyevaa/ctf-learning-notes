@@ -1,6 +1,6 @@
 # Challenge: DISKO 1
 
-# Details
+## Details
 
 Source: picoCTF picoGym Exclusive
 
