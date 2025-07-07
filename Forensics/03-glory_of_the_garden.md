@@ -1,6 +1,6 @@
-## Challenge: Glory of the Garden
+# Challenge: Glory of the Garden
 
-# Details
+## Details
 
 - Source: picoCTF 2019
 - Category: Forensics
@@ -8,27 +8,27 @@
 - Given file: garden.jpg
 
 
-# Description
+## Description
 
 The garden contains more than it seems
 
 
-# Hints
+## Hints
 
 What is a hex editor?
 
 
-# Tools
+## Tools
 
 - xxd
 
 
-# Steps taken
+## Steps taken
 
 1. Analyze the hex codes of the image which contained the flag.
 
 
-# What I learned
+## What I learned
 
 1. A hex editor lets us look at raw binary data in hexadecimal form. We can see how it exists on the disk, including hidden, deleted or embedded data.
 
