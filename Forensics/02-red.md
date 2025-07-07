@@ -1,6 +1,6 @@
 # Challenge: RED 
 
-# Details
+## Details
 
 Source: picoCTF 2025
 
