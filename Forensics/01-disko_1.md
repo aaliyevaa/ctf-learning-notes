@@ -10,7 +10,7 @@ Difficulty: Easy
   
 Given file: disko-1.dd.gz
 
-Date Completed (dd.mm.yyyy): 06.07.2025
+Date Completed: 06.07.2025
 
 
 ## Description
