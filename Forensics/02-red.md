@@ -10,7 +10,7 @@ Difficulty: Easy
 
 Given file: red.png
 
-Date completed (dd.mm.yyyy): 07.07.2025
+Date completed: 07.07.2025
 
 
 ## Description
