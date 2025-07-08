@@ -6,6 +6,7 @@
 - Category: Forensics
 - Difficulty: Easy
 - Given file: flag2of2-final.pdf
+- Date Completed (dd.mm.yyyy): 07.07.2025
 
 
 ## Description
