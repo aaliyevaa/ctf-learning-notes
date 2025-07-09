@@ -42,7 +42,7 @@ RED, RED, RED, RED
 
 2. A poem found as a hint:
 
-    ![Metadata](../Images/02-red-poem.png)
+    ![Metadata](../Images/forensics/02-red-poem.png)
 
 3. All hints suggested investigating RGBA channels.
 
