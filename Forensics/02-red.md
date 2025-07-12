@@ -54,7 +54,7 @@ RED, RED, RED, RED
 
 The output:
 
-    ![Output](../Images/02-red-zsteg-output.png)
+    ![Output]('./Images/02-red-zsteg-output.png')
 
 5. The longest founding is a base64-encoded string.
 
