@@ -33,17 +33,17 @@ This problem can be solved by just opening the file in different ways
 
 3. As hint suggested opening the file in different ways, I checked the file signature using file.
 
-    ![Output](../Images/forensics/04-actual-extension.png)
+    ![Output](./Images//04-actual-extension.png)
 
 4. The file was a PNG file, therefore I converted it to png, which revelaed the first half of the flag
 
-    ![First half](../Images/forensics/04-first-half.jpg)
+    ![First half](./Images/04-first-half.jpg)
 
 ### Missteps (aka Tried but Failed)
 
 - I used binwalk to analyze the file further and came across this:
 
-    ![Binwalk](../Images/forensics/04-binwalk.png)
+    ![Binwalk](./Images/04-binwalk.png)
 
 - As far as I understood and searched, the file contains zlib-compressed data starting at byte 1149.
 
