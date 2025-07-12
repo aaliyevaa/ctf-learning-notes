@@ -41,7 +41,7 @@ How about some hide and seek?
 
 4. I checked the metadata of the image, which revealed a base64-encoded string.
 
-    ![Metadata](../Forensics/Images/05-metadata.png)
+    ![Metadata](./Images/05-metadata.png)
 
 5. As I had already learned, I easily decoded the string and obtained the flag.
 
