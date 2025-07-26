@@ -16,14 +16,14 @@ A company stored a secret message on a server which got breached due to the admi
 
 ## Hints
 
-1. Understanding hashes is very crucial. ![Read more here](https://primer.picoctf.org/#_hashing)
+1. Understanding hashes is very crucial. [Read more here](https://primer.picoctf.org/#_hashing)
 2. Can you identify the hash algorithm? Look carefully at the length and structure of each hash identified.
 3. Tried using any hash cracking tools?
 
 
 ## Tools
 
-1. ![Online Hash Cracker Tool](https://crackstation.net/)
+1. [Online Hash Cracker Tool](https://crackstation.net/)
 
 
 ## Steps taken
@@ -40,4 +40,4 @@ A company stored a secret message on a server which got breached due to the admi
 
 ## Useful References
 
-1. ![CTF Handbook 101 - Cryptography](https://ctf101.org/cryptography/overview/)
+1. [CTF Handbook 101 - Cryptography](https://ctf101.org/cryptography/overview/)
