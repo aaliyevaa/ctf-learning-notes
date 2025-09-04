@@ -60,7 +60,4 @@ As expected, nmap result did not come in handy yet.
 1. [Medium - TakeOver Write up](https://medium.com/@blabber_ducky/enumerating-virtual-hosts-during-pentests-tryhackme-takeover-996ab093534b)
 2. [HackerOne - A guide to subdomain takeovers](https://www.hackerone.com/blog/guide-subdomain-takeovers-20#enumerating)
 3. [Subdomain take overs](https://developer.mozilla.org/en-US/docs/Web/Security/Subdomain_takeovers)
-
-4. 
-5. 
-   
+ 
